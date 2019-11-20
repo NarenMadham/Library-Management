@@ -1,0 +1,8 @@
+D:\Library management\fac_brn\fac_brn\bin\Debug\fac_brn.exe
+D:\Library management\fac_brn\fac_brn\bin\Debug\fac_brn.pdb
+D:\Library management\fac_brn\fac_brn\obj\Debug\fac_brn.Form1.resources
+D:\Library management\fac_brn\fac_brn\obj\Debug\fac_brn.Properties.Resources.resources
+D:\Library management\fac_brn\fac_brn\obj\Debug\fac_brn.csproj.GenerateResource.Cache
+D:\Library management\fac_brn\fac_brn\obj\Debug\fac_brn.csproj.CoreCompileInputs.cache
+D:\Library management\fac_brn\fac_brn\obj\Debug\fac_brn.exe
+D:\Library management\fac_brn\fac_brn\obj\Debug\fac_brn.pdb
