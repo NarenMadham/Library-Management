@@ -1,0 +1,8 @@
+D:\PROJECTS\Library management\stud_id_crt\stud_id_crt\bin\Debug\stud_id_crt.exe
+D:\PROJECTS\Library management\stud_id_crt\stud_id_crt\bin\Debug\stud_id_crt.pdb
+D:\PROJECTS\Library management\stud_id_crt\stud_id_crt\obj\Debug\ResolveAssemblyReference.cache
+D:\PROJECTS\Library management\stud_id_crt\stud_id_crt\obj\Debug\stud_id_crt.Form1.resources
+D:\PROJECTS\Library management\stud_id_crt\stud_id_crt\obj\Debug\stud_id_crt.Properties.Resources.resources
+D:\PROJECTS\Library management\stud_id_crt\stud_id_crt\obj\Debug\stud_id_crt.csproj.GenerateResource.Cache
+D:\PROJECTS\Library management\stud_id_crt\stud_id_crt\obj\Debug\stud_id_crt.exe
+D:\PROJECTS\Library management\stud_id_crt\stud_id_crt\obj\Debug\stud_id_crt.pdb
