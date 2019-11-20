@@ -1,0 +1,5 @@
+D:\PROJECTS\Library management\intro\intro\obj\Debug\ResolveAssemblyReference.cache
+D:\PROJECTS\Library management\intro\intro\obj\Debug\intro.intro.resources
+D:\PROJECTS\Library management\intro\intro\obj\Debug\Stud_brn.std_brn.resources
+D:\PROJECTS\Library management\intro\intro\obj\Debug\intro.Properties.Resources.resources
+D:\PROJECTS\Library management\intro\intro\obj\Debug\intro.csproj.GenerateResource.Cache
